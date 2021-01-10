@@ -1,0 +1,29 @@
+
+[2021.01.06 - 16:04:30]HomeWebSocketServer started!
+[2021.01.06 - 16:05:07]HomeWebSocketServer started!
+[2021.01.06 - 16:08:34]HomeWebSocketServer started!
+[2021.01.06 - 16:09:05]org.java_websocket.WebSocketImpl@346d5005 connected to the WebSocket server.
+[2021.01.06 - 16:10:25]org.java_websocket.WebSocketImpl@346d5005 disconnected from the the WebSocket server.
+[2021.01.06 - 16:12:22]HomeWebSocketServer started!
+[2021.01.06 - 16:12:35]org.java_websocket.WebSocketImpl@1f6fef70 connected to the WebSocket server.
+[2021.01.06 - 16:12:43][Sent]hello
+[2021.01.06 - 16:13:19]org.java_websocket.WebSocketImpl@1f6fef70 disconnected from the the WebSocket server.
+[2021.01.06 - 16:16:59]HomeWebSocketServer started!
+[2021.01.06 - 16:17:07]org.java_websocket.WebSocketImpl@1f6fef70 connected to the WebSocket server.
+[2021.01.06 - 16:17:14][Sent]home/lightLivingRoom/turn/on
+[2021.01.06 - 16:17:53]org.java_websocket.WebSocketImpl@1f6fef70 disconnected from the the WebSocket server.
+[2021.01.06 - 16:19:45]HomeWebSocketServer started!
+[2021.01.06 - 16:19:48]org.java_websocket.WebSocketImpl@41d6fe6c connected to the WebSocket server.
+[2021.01.06 - 16:35:01]HomeWebSocketServer started!
+[2021.01.06 - 16:35:11]org.java_websocket.WebSocketImpl@67539685 connected to the WebSocket server.
+[2021.01.06 - 16:36:07][Sent]livingRoomFireplace/turn/on
+[2021.01.06 - 16:36:16]org.java_websocket.WebSocketImpl@67539685 disconnected from the the WebSocket server.
+[2021.01.06 - 16:43:49]org.java_websocket.WebSocketImpl@19a1c7de connected to the WebSocket server.
+[2021.01.06 - 16:43:59][Sent]home/livingRoomFireplace/turn/on
+[2021.01.06 - 16:44:14]org.java_websocket.WebSocketImpl@19a1c7de disconnected from the the WebSocket server.
+[2021.01.06 - 16:45:13]HomeWebSocketServer started!
+[2021.01.06 - 16:45:15]org.java_websocket.WebSocketImpl@628c85e connected to the WebSocket server.
+[2021.01.06 - 16:45:46][Sent]home/livingRoomFireplace/turn/on
+[2021.01.06 - 16:45:58][Sent]home/lightLivingRoom/turn/on
+[2021.01.06 - 16:46:08][Sent]home/lightLivingRoom/turn/off
+[2021.01.06 - 16:51:30]org.java_websocket.WebSocketImpl@628c85e disconnected from the the WebSocket server.
